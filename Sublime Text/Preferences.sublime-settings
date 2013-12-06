@@ -1,0 +1,69 @@
+{
+	"atomic_save": false,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
+	"drag_text": false,
+	"draw_white_space": "selection",
+	"fade_fold_buttons": false,
+	"font_face": "Ubuntu Mono",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"open_files_in_new_window": true,
+	"preview_on_click": true,
+	"remember_open_files": false,
+	"show_full_path": true,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"tab_size": 4,
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
+	"va_alignment_chars":
+	[
+		{
+			"alignment": "right",
+			"char": ":",
+			"left_space": true,
+			"prefixes":
+			[
+			],
+			"right_space": true
+		},
+		{
+			"alignment": "right",
+			"char": "=",
+			"left_space": true,
+			"prefixes":
+			[
+				"+",
+				"-",
+				"&",
+				"|",
+				"<",
+				">",
+				"!",
+				"~",
+				"%",
+				"/",
+				"*",
+				"."
+			],
+			"right_space": true
+		}
+	]
+}

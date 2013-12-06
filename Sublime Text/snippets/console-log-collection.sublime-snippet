@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+console.log(this.collection.toJSON());
+]]></content>
+	<tabTrigger>logc</tabTrigger>
+</snippet>

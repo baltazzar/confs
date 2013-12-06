@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+alt+f"], "command": "reindent"},
+	{ "keys": ["ctrl+alt+a"], "command": "valign"},
+	{ "keys": ["shift+ctrl+r"], "command": "hex_to_rgba" },
+	{ "keys": ["ctrl+shift+t"], "command": "open_terminal_project_folder" }
+]

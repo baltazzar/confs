@@ -1,4 +1,4 @@
-confs
+Confs
 =====
 
 Arquivos de configuração

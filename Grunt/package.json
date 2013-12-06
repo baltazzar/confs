@@ -1,0 +1,13 @@
+{
+	"name": "NOME_DA_APLICACAO",
+	"version": "0.0.1",
+	"devDependencies": {
+		"grunt"                    : "*",
+		"grunt-contrib-watch"      : "*",
+		"grunt-contrib-handlebars" : "*",
+		"grunt-contrib-connect"    : "*"
+	},
+	"scripts": {
+		"preinstall": "npm install -g grunt-cli"
+	}
+}
