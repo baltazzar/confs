@@ -2,8 +2,8 @@ $pshost = get-host
 $pswindow = $pshost.ui.rawui
 
 $newsize = $pswindow.buffersize
-$newsize.height = 4000
-$newsize.width = 300
+$newsize.height = 30
+$newsize.width = 150
 $pswindow.buffersize = $newsize
 
 $newsize = $pswindow.windowsize
