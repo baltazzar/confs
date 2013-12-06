@@ -1,0 +1,4 @@
+confs
+=====
+
+Arquivos de configuração
