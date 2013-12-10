@@ -2,10 +2,15 @@
 	"name": "NOME_DA_APLICACAO",
 	"version": "0.0.1",
 	"devDependencies": {
-		"grunt"                    : "*",
+		"grunt": "*",
 		"grunt-contrib-watch"      : "*",
 		"grunt-contrib-handlebars" : "*",
-		"grunt-contrib-connect"    : "*"
+		"grunt-contrib-connect"    : "*",
+		"grunt-contrib-jshint"     : "*",
+		"grunt-contrib-requirejs"  : "*",
+		"grunt-replace"            : "*",
+		"grunt-contrib-clean"      : "*",
+		"grunt-ftp-deploy"         : "*"
 	},
 	"scripts": {
 		"preinstall": "npm install -g grunt-cli"
